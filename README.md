@@ -29,6 +29,7 @@ Deep Fake Lip Sync with or without face detection.
 2. Link - https://drive.google.com/file/d/1j5gWT42Eic8Xi_HjpxREuiIVb417_hKi/view?usp=sharing
 
 **License and Citation**
+
 This repository can only be used for personal/research/non-commercial purposes. However, for commercial requests, please contact us directly at radrabha.m@research.iiit.ac.in or prajwal.k@research.iiit.ac.in. We have an HD model trained on a dataset allowing commercial usage. The size of the generated face will be 192 x 288 in our new model. Please cite the following paper if you use this repository:
 
 @inproceedings{10.1145/3394171.3413532,
